@@ -5,18 +5,20 @@ global.prems = []
 
 //=============『 Info Owner 』============== //
 global.nameowner = 'Agungxัี'
-global.numberowner = '6287719424487'
+global.numberowner = '6287719424487','6281368176386'
 global.instagram = 'https://instagram.com/yt.agungxx'
-global.github = 'https://github.com/NeonmD'
-global.dana = '-'
+global.github = 'https://github.com/Neonbotz'
+global.dana = 'Belum Tersedia'
 global.pulsa = '087719424487'
-global.gopay = '-'
+global.gopay = '081390413987'
 
 //=============『 Info Bot 』=================//
 global.namebot = 'Sachi-Botzz え'
 global.gc = 'https://chat.whatsapp.com/GUZsmmxDNQAAMyzMKrXDTV'
 global.web = 'Blm Punya Web Xixixi' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
-global.price1 = '1 bulan = 20k\n2 Minggu 15k\n1 Minggu 5.000'
+global.price1 = '『 JASA SEWA BOT WHATSAPP  』\n☦︎ SEWA BOT LIST HARGA ☦︎
+➪ 5K (1 Minggu) ➪ 15K (1 Bulan ) 
+➪ 20K (2 Bulan )\nMinat Chat  : wa.me/6287719424487'
 
 //=======『 Tampilan Dan Lainnya 』============//
 global.fotonya1 = 'https://telegra.ph/file/355e35599f9153126e371.jpg' //ganti jadi foto bot mu
