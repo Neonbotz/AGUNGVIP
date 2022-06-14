@@ -9,7 +9,7 @@ const ftroli = {
     itemCount : 2022,
     status: 1,
     surface : 1,
-    message: 'Get Bot', 
+    message: 'Jasa Sewa Bot ©Agungx', 
     orderTitle: `Hyzer`,
     thumbnail: 'https://telegra.ph/file/5ecbec3e82e247671a18e.jpg', 
     sellerJid: '0@s.whatsapp.net' 
