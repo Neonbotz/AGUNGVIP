@@ -21,8 +21,8 @@ global.price1 = '『 JASA SEWA BOT WHATSAPP  』\n☦︎ SEWA BOT LIST HARGA ☦
 ➪ 20K (2 Bulan )\nMinat Chat  : wa.me/6287719424487'
 
 //=======『 Tampilan Dan Lainnya 』============//
-global.fotonya1 = 'https://telegra.ph/file/355e35599f9153126e371.jpg' //ganti jadi foto bot mu
-global.fotonya2 = 'https://telegra.ph/file/355e35599f9153126e371.jpg' //ini juga ganti 
+global.fotonya1 = 'https://telegra.ph/file/2ccdb3d40a29be3ba1dc2.jpg' //ganti jadi foto bot mu
+global.fotonya2 = 'https://telegra.ph/file/2ccdb3d40a29be3ba1dc2.jpg' //ini juga ganti 
 global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:v
 global.zenzkey = '86148d1376' //ganti jadi apikey lu kalau expired
 global.wm = '𝚂𝚊𝚌𝚑𝚒 𝙱𝚘𝚝𝚣𝚣 ༄'
@@ -31,14 +31,14 @@ global.wm2 = '                     「 𝚂𝚊𝚌𝚑𝚒 𝙱𝚘𝚝𝚣𝚣
 global.wm3 = '⫹⫺ 𝚂𝚊𝚌𝚑𝚒 𝙱𝚘𝚝𝚣𝚣 ༄'
 global.htki = '––––––『' 
 global.htka = '』––––––'
-global.media = 'https://telegra.ph/file/355e35599f9153126e371.jpg'
+global.media = 'https://telegra.ph/file/2ccdb3d40a29be3ba1dc2.jpg'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
 global.wait = '_*tunggu sedang di proses...*_'
 global.eror = '_*Server Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
-global.packname = '2022'
+global.packname = 'Sachi'
 global.author = '© Agungxัี'
 
 //=============『 Apikey 』================== //
