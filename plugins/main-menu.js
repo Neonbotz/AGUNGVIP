@@ -521,7 +521,7 @@ const template = generateWAMessageFromContent(m.key.remoteJid, proto.Message.fro
            },
                {
              quickReplyButton: {
-               displayText: 'Owner',
+               displayText: 'Owner Bot',
                id: '.owner',
              }
 
@@ -566,7 +566,7 @@ handler.admin = false
 handler.botAdmin = false
 
 handler.fail = null
-handler.exp = 3
+handler.exp = 0
 
 module.exports = handler
 
