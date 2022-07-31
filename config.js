@@ -8,12 +8,12 @@ global.nameowner = 'Owner Botz ( Agungxัี )'
 global.numberowner = '6287719424487'
 global.instagram = 'https://instagram.com/yt.agungxx'
 global.github = 'https://github.com/Neonbotz'
-global.dana = 'Belum Tersedia'
-global.pulsa = '087719424487'
+global.dana = '-'
+global.pulsa = '-'
 global.gopay = '081390413987'
 
 //=============『 Info Bot 』=================//
-global.namebot = 'Sachi-Botzz え'
+global.namebot = 'Sᴀᴄʜɪ Bᴏᴛᴢ ♡︎'
 global.gc = 'https://chat.whatsapp.com/GUZsmmxDNQAAMyzMKrXDTV'
 global.web = 'Blm Punya Web Xixixi' //ubah jadi website lu, bisa link ig, link github, link yt, klo link gc ntr beda tampilan lagi. 
 global.price1 = '『 JASA SEWA BOT WHATSAPP  』\n☦︎ SEWA BOT LIST HARGA ☦︎\n➪ 5K (1 Minggu)➪ 10K (1 Bulan )\n➪ 25K ( Permanen )\nMinat Chat  : wa.me/6287719424487'
@@ -25,8 +25,8 @@ global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:
 global.zenzkey = '86148d1376' //ganti jadi apikey lu kalau expired
 global.wm = '𝚂𝚊𝚌𝚑𝚒 𝙱𝚘𝚝𝚣𝚣 ༄'
 global.watermark = wm
-global.wm2 = '                     「 𝚂𝚊𝚌𝚑𝚒 𝙱𝚘𝚝𝚣𝚣 ༄ 」'
-global.wm3 = '⫹⫺ 𝚂𝚊𝚌𝚑𝚒 𝙱𝚘𝚝𝚣𝚣 ༄'
+global.wm2 = '                     「 Sᴀᴄʜɪ Bᴏᴛᴢ ♡︎ ༄ 」'
+global.wm3 = '⫹⫺ Sᴀᴄʜɪ Bᴏᴛᴢ ♡︎ ༄'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/2ccdb3d40a29be3ba1dc2.jpg'
@@ -36,8 +36,8 @@ global.eror = '_*Server Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
 global.stiker_wait = 'Stiker sedang dibuat'
-global.packname = 'Sachi'
-global.author = '© Agungxัี'
+global.packname = 'Sᴀᴄʜɪ Bᴏᴛᴢ ♡︎'
+global.author = 'Mode With By\n\nAgungx 🔥'
 
 //=============『 Apikey 』================== //
 global.APIs = { // API Prefix
